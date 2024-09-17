@@ -19,5 +19,5 @@
 ### About Me 🚀
 - 🔭 I’m currently working on **Bash Scripting And Python**
 - 🌱 I’m currently learning **Programming**
-- 📫 How to reach me: **[hemanthprabhu2003@gmail,com](mailto:hemanthprabhu2003@gmail.com)**
+- 📫 How to reach me: **[hemanthprabhu2003@gmail.com](mailto:hemanthprabhu2003@gmail.com)**
 
