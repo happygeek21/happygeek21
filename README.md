@@ -6,6 +6,8 @@
 ## My GitHub Stats 📊
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=happygeek21&show_icons=true&theme=radical)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3212198" style='border:none;'></iframe>
+
 ## GitHub Streak Stats 🔥
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=happygeek21&theme=radical)
 
